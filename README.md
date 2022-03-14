@@ -1,2 +1,2 @@
-#Example of README.me
+#Example of README.md
 
